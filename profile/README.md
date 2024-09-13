@@ -10,15 +10,23 @@ The project is funded by the Swedish Research Council
 grant 2018-06074
 DECRYPT - Decryption of historical manuscripts.
 
-# Repositories connected to the decrypt project
+# Repositories connected to the DECRYPT project
 
-# CrypTool2
-
+# CrypTool2 (CT2)
+a desktop tool for breaking historical and modern ciphers
 https://github.com/CrypToolProject/CrypTool-2
 
-# CTTS
+# CrypTool Transcriber and Solver (CTTS)
+a desktop tool for manual transcription
 https://github.com/CrypToolProject/CTTS
 
-# Python library for language statistics
+# Historical Language Corpora (HistCorp)
+a collection of hisotrical texts and language models for 17 European languages
+https://www2.lingfil.uu.se/person/pettersson/histcorp/
 
+# Python library for language statistics
 https://github.com/CrypToolProject/LanguageStatisticsLibPy
+
+# TranscriptTool
+a web-based tool for semi-automatic transcription using AI
+https://github.com/decrypt-project/transcripttool
